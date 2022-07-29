@@ -1,0 +1,29 @@
+/* ubicar la imagen en toda la pantalla adaptable */
+.imagen {
+    background-image: url("https://img.freepik.com/vector-gratis/desarrollo-web-ingenieria-programadores-sitio-web-codificacion-pantallas-interfaz-realidad-aumentada-desarrollador-ingeniero-proyectos-software-programacion-o-diseno-aplicaciones-ilustracion-dibujos-animados_107791-3863.jpg?w=740&t=st=1658973638~exp=1658974238~hmac=3549c83c58664679786bc26213005d2770891306b83c1d976cfaa13847c87b21");
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 1600px;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+}
+
+li {
+    padding-left: 7.5em;
+
+}
+
+.navbar-brand {
+    padding-left: 1.5em;
+}
+
+
+
+.parrafo {
+    text-align: justify;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+
+}
